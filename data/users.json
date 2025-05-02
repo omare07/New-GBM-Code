@@ -1,0 +1,14 @@
+{
+  "n": {
+    "username": "n",
+    "cash": 10000,
+    "holdings": {
+      "ZOOM": 0,
+      "SLPH": 0,
+      "VIST": 0,
+      "GRWN": 0,
+      "SCAT": 0
+    },
+    "pnl": 0.0
+  }
+}
